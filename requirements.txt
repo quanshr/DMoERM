@@ -1,0 +1,8 @@
+torch
+transformers
+peft
+tiktoken
+transformers_stream_generator
+einops
+matplotlib
+tqdm

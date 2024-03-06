@@ -1,0 +1,3 @@
+[submodule "Ernie-rlhf"]
+	path = Ernie-rlhf
+	url = https://huggingface.co/datasets/quanshr/Ernie-rlhf
