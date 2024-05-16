@@ -2,7 +2,7 @@
 
 ![innermoe](innermoe.jpg)
 
-This is the official repository of **DMoERM** for our paper [DMoERM: Recipes of Mixture-of-Experts for Effective Reward Modeling](https://arxiv.org/abs/2403.01197). The DMoERM has two layers of MoE: the outer MoE routes inputs to its corresponding task-specific inner MoE to avoid multi-task disturbance, and then the inner MoE uses multiple LoRA experts to evaluate inputs based on different capability points decomposed from the task and then aggregates them to get the final reward score.
+[ACL2024 Findings]This is the official repository of **DMoERM** for our paper [DMoERM: Recipes of Mixture-of-Experts for Effective Reward Modeling](https://arxiv.org/abs/2403.01197). The DMoERM has two layers of MoE: the outer MoE routes inputs to its corresponding task-specific inner MoE to avoid multi-task disturbance, and then the inner MoE uses multiple LoRA experts to evaluate inputs based on different capability points decomposed from the task and then aggregates them to get the final reward score.
 
 # Setup
 
