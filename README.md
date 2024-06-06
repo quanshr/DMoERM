@@ -6,7 +6,7 @@
 
 # Setup
 
-To promote research, we have released our dataset `Ernie-rlhf` at [huggingface](https://huggingface.co/datasets/quanshr/Ernie-rlhf).
+To promote research, we have released our dataset `mtmc-rlhf` at [huggingface](https://huggingface.co/datasets/quanshr/Ernie-rlhf).
 
 Run the following command to download both our code and dataset:
 
